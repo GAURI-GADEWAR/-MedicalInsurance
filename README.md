@@ -58,7 +58,7 @@ Visualizations include:
 
 
 
-## 🤖 Machine Learning Models
+## 🤖 Machine Learning Model used
 
 The project implements and compares multiple machine learning models for predicting medical insurance charges:
 
